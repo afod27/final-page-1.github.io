@@ -326,7 +326,7 @@ main p{
     width: 100%; */
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 0.5fr 0.5fr;
-    column-gap: 12vw;
+    column-gap: 15.5vw;
 }
 
 .main-resume-1{
