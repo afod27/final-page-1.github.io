@@ -332,6 +332,7 @@ main p{
 .main-resume-1{
     max-width: 660px;
     width: auto;
+    padding: 0 0.5em 0 0.5em;
 }
 
 .main-resume-2{
@@ -339,6 +340,7 @@ main p{
     width: auto;
     grid-column: 2 / 3;
     grid-row: 1 / 1;
+    padding: 0 0.5em 0 0.5em;
 }
 
 .main-resume-3{
@@ -346,6 +348,7 @@ main p{
     width: auto;
     grid-column: 1 / 2;
     grid-row: 2 / 2;
+    padding: 0 0.5em 0 0.5em;
 }
 
 .main-resume-4{
@@ -361,6 +364,7 @@ main p{
     margin: auto;
     width: 30%;
     padding: 10px;
+    padding: 0 0.5em 0 0.5em;
 }
 
 .sub-container{
